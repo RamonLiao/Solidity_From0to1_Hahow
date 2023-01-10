@@ -1,4 +1,4 @@
-# Solidity From 0 to1
+# Solidity From 0 to 1
 
 This repo are learning notes of an online course of [learning Solidity from 0 to 1 (Chinese)](https://hahow.in/courses/5b3cdd6ed03140001eebeadc) on Hahow.
 
