@@ -1,11 +1,17 @@
 # Solidity From 0 to 1
 
-This repo are learning notes of an online course of [learning Solidity from 0 to 1 (Chinese)](https://hahow.in/courses/5b3cdd6ed03140001eebeadc) on Hahow.
+This repo are learning notes of an online course of [Learning Solidity from 0 to 1 (Chinese)](https://hahow.in/courses/5b3cdd6ed03140001eebeadc) on Hahow.
 
 Lecturer: [XiXi Huang](https://superdcc.medium.com/)
 
+<br>
+
+# 1. Introduction
 This course includes the introduction to blockchain, Bitcoin, Ethereum. Each student can learn the fundamental skills of Solidity and practical tips of saving Gas fees and security methods.
 
+<br>
+
+# 2. Courses and Assignments
 <table>
     <tr>
         <th>Classes</th>
@@ -92,6 +98,12 @@ This course includes the introduction to blockchain, Bitcoin, Ethereum. Each stu
         </td>
     </tr>
     <tr>
+        <td><b>Assignment 1</b></td>
+        <td>Create your own ERC20 tokens</td>
+        <td>
+            <a href="https://goerli.etherscan.io/address/0x58a2642e3243096beffd38ced4b5672c1403744a">RLC tokens</a>
+        </td>
+    <tr>
         <td>Class 27</td>
         <td>Intermediate Solidity: Exception (Revert, Assert, Require)</td>
         <td>
@@ -176,6 +188,13 @@ This course includes the introduction to blockchain, Bitcoin, Ethereum. Each stu
         </td>
     </tr>
     <tr>
+        <td><b>Assignment 2</b></td>
+        <td>Create Animal Capsule Toys</td>
+        <td>
+            <a href="https://goerli.etherscan.io/address/0x3E0c7256956ae6225d30dCE530Cc3314f0FfB8f7">Animal Capsule Toys</a>
+        </td>
+    <tr>
+    <tr>
         <td>Class 39</td>
         <td>Advanced Solidity: Call API (Oraclize)</td>
         <td>
@@ -220,6 +239,12 @@ This course includes the introduction to blockchain, Bitcoin, Ethereum. Each stu
             <a href="./Materials/45_oraclize.sol">45_oraclize.sol</a>
         </td>
     </tr>
+    <tr>
+        <td><b>Assignment 3</b></td>
+        <td>Create a game of rock-paper-scissors</td>
+        <td>
+        </td>
+    <tr>
     <tr>
         <td>Class 45</td>
         <td>Advanced Solidity: Attacks samples by invalidating contracts</td>
@@ -292,5 +317,15 @@ This course includes the introduction to blockchain, Bitcoin, Ethereum. Each stu
             <a href="./Materials/index_55.html">index_55.html</a>
         </td>
     </tr>
-
+    <tr>
+        <td><b>Assignment 4</b></td>
+        <td>Create a game of Greedy599 (similar to Fomo3D)</td>
+        <td>
+        </td>
+    <tr>
 </table>
+
+<br>
+
+# Disclaimer
+The assignment and solutions are only for reference purposes to support new learners who may get stuck in assignments. Learning is a long-term journey. Never give up and you will make it!!
