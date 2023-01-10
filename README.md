@@ -7,11 +7,13 @@ Lecturer: [XiXi Huang](https://superdcc.medium.com/)
 <br>
 
 # 1. Introduction
+
 This course includes the introduction to blockchain, Bitcoin, Ethereum. Each student can learn the fundamental skills of Solidity and practical tips of saving Gas fees and security methods.
 
 <br>
 
 # 2. Courses and Assignments
+
 <table>
     <tr>
         <th>Classes</th>
@@ -284,37 +286,37 @@ This course includes the introduction to blockchain, Bitcoin, Ethereum. Each stu
         <td>Class 50</td>
         <td>Instantiate EC2 on AWS and deploy a website</td>
         <td>
-            <a href="./Materials/index_50.html">index_50.html</a>
+            <a href="./Materials/index_50.html">index_50.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_50.html">Demo</a>)
         </td>
     </tr>
     <tr>
         <td>Class 51 - 52</td>
         <td>Introduction to frontend and JavaScripts</td>
         <td>
-            <a href="./Materials/index_51.html">index_51.html</a> /
-            <a href="./Materials/index_52.html">index_52.html</a>
+            <a href="./Materials/index_51.html">index_51.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_51.html">Demo</a>) /
+            <a href="./Materials/index_52.html">index_52.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_52.html">Demo</a>)
         </td>
     </tr>
     <tr>
         <td>Class 53</td>
         <td>Introduction to Web3.js</td>
         <td>
-            <a href="./Materials/index_53.html">index_53.html</a>
+            <a href="./Materials/index_53.html">index_53.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_53.html">Demo</a>)
         </td>
     </tr>
     <tr>
         <td>Class 54</td>
         <td>Call a wallet to read wallet address, balances</td>
         <td>
-            <a href="./Materials/index_54.html">index_54.html</a> /
-            <a href="./Materials/index_54_v2.html">index_54_v2.html</a>
+            <a href="./Materials/index_54.html">index_54.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_54.html">Demo</a>) /
+            <a href="./Materials/index_54_v2.html">index_54_v2.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_54_v2.html">Demo</a>)
         </td>
     </tr>
     <tr>
         <td>Class 55</td>
         <td>Using Infura to read public parameters</td>
         <td>
-            <a href="./Materials/index_55.html">index_55.html</a>
+            <a href="./Materials/index_55.html">index_55.html</a> (<a href="https://raw.githack.com/RamonLiao/Solidity_From0to1_Hahow/main/Materials/index_55.html">Demo</a>)
         </td>
     </tr>
     <tr>
@@ -328,4 +330,5 @@ This course includes the introduction to blockchain, Bitcoin, Ethereum. Each stu
 <br>
 
 # Disclaimer
+
 The assignment and solutions are only for reference purposes to support new learners who may get stuck in assignments. Learning is a long-term journey. Never give up and you will make it!!
