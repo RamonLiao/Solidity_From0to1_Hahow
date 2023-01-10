@@ -9,6 +9,7 @@ contract Token {
   }
 
   function transfer(address _to, uint _value) public returns (bool) {
+    // if _value is greater than balances[msg.sender], overflow happends!
     require(balances[msg.sender] - _value >= 0);
     // require(balances[msg.sender] >= _value ); //治標方法
     balances[msg.sender] -= _value;
